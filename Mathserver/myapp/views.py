@@ -18,6 +18,6 @@ def gst_amt_calc(request):
     context = {
         'gst_amt': gst_amt
     }
-    return render(request, 'calculator.html', context)
+    return render(request, 'bill.html', context)
 
 
