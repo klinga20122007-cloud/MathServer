@@ -190,12 +190,12 @@ Publish the website in Localhost.
 
 ## OUTPUT - SERVER SIDE:
 
+<img width="936" height="342" alt="{B83A2D2C-6768-4F3F-98D3-FFFDA7E82075}" src="https://github.com/user-attachments/assets/58767f18-0549-4294-b211-392c0e71c3e8" />
 
-![alt text]({A7D7BD13-EFFC-4442-92D7-67D7ED2B2D3D}.png)
 
 ## OUTPUT - WEBPAGE:
-![alt text]({171B64FE-9336-43FE-B6D9-16588B02CCD3}.png)
 
+<img width="1915" height="995" alt="{D3FE8987-A457-434D-86AB-7C1FD5D1ED75}" src="https://github.com/user-attachments/assets/657beeca-9575-4d0b-b23f-ca18af0597dc" />
 
 
 
